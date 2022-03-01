@@ -15,7 +15,7 @@
 ### App Walkthrough GIF
 
 
-<!-- <img src="http://g.recordit.co/oSwzKM84nS.gif" width=250><br> -->
+<!-- <img src="http://g.recordit.co/oSwzKM84nS.gif" width=250 -->
 
 
 <img src="http://g.recordit.co/o3JaRw92aE.gif" width=250><br>
